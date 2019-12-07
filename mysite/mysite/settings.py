@@ -27,7 +27,7 @@ SECRET_KEY = request_key()
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['192.168.20.7', '192.168.20.7']
+ALLOWED_HOSTS = ['192.168.20.7', '192.168.20.16']
 
 
 # Application definition
