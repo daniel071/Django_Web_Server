@@ -2,6 +2,9 @@
 ### Example user template template
 ### Example user template
 
+# Secret Key
+mysite/mysite/Secret_Key.py
+
 # IntelliJ project files
 .idea
 *.iml
